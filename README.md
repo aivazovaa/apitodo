@@ -49,7 +49,7 @@ REST API для управления списком задач (ToDo) на FastA
 
 ### Установка и запуск
 
-1. **Клонировать репозиторий** или скачать архив и распаковать:
+1. **Клонировать репозиторий**:
    ```bash
    git clone https://github.com/aivazovaa/apitodo.git
    cd apitodo
