@@ -1,0 +1,4 @@
+*.py linguist-language=Python
+*.pyx linguist-vendored
+*.c linguist-vendored
+*.so linguist-vendored
